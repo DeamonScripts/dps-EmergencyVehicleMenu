@@ -1,4 +1,4 @@
-# Emergency Vehicle Menu - Advanced Auto-Configuration Edition
+# DPS Emergency Vehicle Menu - Advanced Auto-Configuration Edition
 
 [![FiveM](https://img.shields.io/badge/FiveM-Resource-blue)](https://fivem.net/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
